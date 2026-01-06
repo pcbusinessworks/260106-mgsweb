@@ -1,0 +1,47 @@
+I need to customize this business website template for my business. Here are my details:
+
+**Business Information:**
+- Business Name: [Your Business Name]
+- Tagline: [Your Business Tagline/Slogan]
+- Description: [Brief description of what your business does]
+- Industry: [Your industry/sector]
+
+**Contact Information:**
+- Email: [your-email@domain.com]
+- Phone: [+1 (555) 123-4567]
+- Address: [Your business address]
+- Website: [https://yourwebsite.com]
+
+**Social Media (optional):**
+- Facebook: [https://facebook.com/yourbusiness]
+- Twitter: [https://twitter.com/yourbusiness]
+- LinkedIn: [https://linkedin.com/company/yourbusiness]
+- Instagram: [https://instagram.com/yourbusiness]
+
+**Services (3-4 main services):**
+1. [Service 1 Name] - [Brief description]
+2. [Service 2 Name] - [Brief description]
+3. [Service 3 Name] - [Brief description]
+4. [Service 4 Name] - [Brief description]
+
+**Pricing (optional):**
+- Starter Package: $[price] - [What's included]
+- Professional Package: $[price] - [What's included]
+- Enterprise Package: $[price] - [What's included]
+
+**Google Reviews (optional):**
+- Google Place ID: [Your Google Place ID]
+- Google API Key: [Your Google API Key]
+
+**Additional Requirements:**
+- Logo URL: [https://yourdomain.com/logo.png]
+- Brand Colors: Primary: [Your primary color], Secondary: [Your secondary color]
+- Special Features: [Any specific features or sections you want]
+
+Please update the template with this information and ensure all content reflects my business. Make sure to:
+1. Update all business information in the config file
+2. Customize services and pricing
+3. Update testimonials if provided
+4. Ensure all navigation and links work properly
+5. Maintain the professional design and animations
+6. Keep the responsive design intact
